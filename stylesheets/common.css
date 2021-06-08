@@ -21,3 +21,6 @@ body, html {
 .spacer-30px{
     height: 30px;
 }
+.card-title{
+    padding: 10px;
+}

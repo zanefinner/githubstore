@@ -7,8 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="stylesheets/common.css" />
     <link rel="stylesheet" href="stylesheets/materialize.css" />
-    <script src="js/frontend-crawl.js"></script>
-    <title>Github Store</title>
+    <script src="js/frontend-crawl.js"></script>    <title>Github Store</title>
 </head>
 
 <body>
@@ -31,7 +30,7 @@
     </div>
     <div class="spacer-30px"></div>
     <div class="container">
-        <div class="row">
+        <div class="row results">
             <div class="col s6 m4 l4 xl4 ">
                 <div class="card">
                     <div class="card-image">
@@ -99,3 +98,4 @@
 </body>
 
 </html>
+<script src="js/search.js"></script>

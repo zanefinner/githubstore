@@ -14,3 +14,10 @@ body, html {
 .padding{
     height: 66px;
 }
+.banner-horizontal{
+    padding: 50px;
+    background-color:rgb(255, 255, 255);
+}
+.spacer-30px{
+    height: 30px;
+}

@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="stylesheets/common.css" />
     <link rel="stylesheet" href="stylesheets/materialize.css" />
-
+    <script src="js/frontend-crawl.js"></script>
     <title>Github Store</title>
 </head>
 
